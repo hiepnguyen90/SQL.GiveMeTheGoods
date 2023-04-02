@@ -1,0 +1,1 @@
+SELECT * from studentname as learners;
